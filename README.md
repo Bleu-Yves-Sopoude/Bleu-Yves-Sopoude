@@ -11,7 +11,7 @@
 
 💫 About Me:
 
-- 🔭  I specialize in building robust and user-friendly web applications from start to finish. And I really enjoy the challenge of solving complex problems and continuously learning new technologies to stay up to date with the latest industry trends. 
+- 🔭  I specialize in building **robust and user-friendly web applications from start to finish.** I really enjoy the challenge of solving complex problems and continuously learning **new technologies to stay up to date with the latest industry trends.** 
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
