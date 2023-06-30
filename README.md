@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I am Bleu Yves</h1>
-<h2 align="left">A full-stack enthusiast who is equally captivated by the art of coding and the thrill of new adventures ! </h2>
+<h3 align="left">A full-stack enthusiast who is equally captivated by the art of coding and the thrill of new adventures ! </h3>
 
 
 
