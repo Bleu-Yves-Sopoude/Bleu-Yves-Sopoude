@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bleu Yves</h1>
-<h2 align="center">A full-stack enthusiast who is equally captivated by the art of coding and the thrill of new adventures ! </h2>
+<h4 align="center">A full-stack enthusiast who is equally captivated by the art of coding and the thrill of new adventures ! </h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleu-yves-sopoude&label=Profile%20views&color=0e75b6&style=flat" alt="bleu-yves-sopoude" /> </p>
