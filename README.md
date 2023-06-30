@@ -2,7 +2,7 @@
 <h4 align="center">A full-stack enthusiast who is equally captivated by the art of coding and the thrill of new adventures ! </h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bleu-yves-sopoude&label=Profile%20views&color=0e75b6&style=flat" alt="bleu-yves-sopoude" /> </p>
+
 
 
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://images.app.goo.gl/QdPYF7dHQVbV87KL9](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -34,3 +34,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bleu-yves-sopoude&" alt="bleu-yves-sopoude" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bleu-yves-sopoude" alt="bleu-yves-sopoude" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bleu-yves-sopoude&label=Profile%20views&color=0e75b6&style=flat" alt="bleu-yves-sopoude" /> </p>
