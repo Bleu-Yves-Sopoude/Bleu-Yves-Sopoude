@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bleu Yves</h1>
+<h1 align="center">Hi there👋, I am Bleu Yves</h1>
 <h4 align="center">A full-stack enthusiast who is equally captivated by the art of coding and the thrill of new adventures ! </h4>
 
 
