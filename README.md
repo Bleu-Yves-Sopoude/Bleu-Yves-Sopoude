@@ -9,14 +9,20 @@
 
 <br>
 
+💫 About Me:
 
+🔭 I’m a full-stack developer, I specialize in building robust and user-friendly web applications from start to finish. I have a solid foundation in both front-end and back-end technologies due to my experiences with Orange Digital Academy and Microverse. And I really enjoy the challenge of solving complex problems and continuously learning new technologies to stay up to date with the latest industry trends. 
+
+
+- 👯 I’m looking to collaborate on Open Source Projects.
 
 - 🌱 I’m currently learning **Javascript and React Js**
 
-
-- 📫 How to reach me **bleuyves@gmail.com**
-
 - ⚡ Fun fact **Love reading and trying new experiences**
+  
+- 🤝 I'd love to get together with you over a glass of wine to discuss your career path, share our passion for application development and talk about the future of the industry.
+  
+- 📫 Reach me **bleuyves@gmail.com**
 
 
 
