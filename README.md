@@ -4,11 +4,10 @@
 
 
 
-
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://images.app.goo.gl/QdPYF7dHQVbV87KL9](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-
+<br>
 
 - 🌱 I’m currently learning **Javascript and React Js**
 
