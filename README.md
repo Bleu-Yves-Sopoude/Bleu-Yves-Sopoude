@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I am Bleu Yves</h1>
-<h3 align="center">A full-stack enthusiast who is equally captivated by the art of coding and the thrill of new adventures ! </h3>
+<h4 align="center">A full-stack enthusiast who is equally captivated by the art of coding and the thrill of new adventures ! </h4>
 
 
 
@@ -9,13 +9,16 @@
 
 <br>
 
+<br>
+
 - 🌱 I’m currently learning **Javascript and React Js**
 
-- 👨‍💻 All of my projects are available at [https://bleu-yves-sopoude.github.io/](https://bleu-yves-sopoude.github.io/)
 
 - 📫 How to reach me **bleuyves@gmail.com**
 
 - ⚡ Fun fact **Love reading and doing new experiences**
+
+  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
