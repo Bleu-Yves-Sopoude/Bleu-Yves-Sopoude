@@ -4,7 +4,7 @@
 
 
 
-<img align="center" alt="coding" widht="400" src="https://miro.medium.com/v2/resize:fit:1360/0*ygaHmPjQnVmEApdT.gif">
+<img align="rigth" alt="coding" widht="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 
 <br>
