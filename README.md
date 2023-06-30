@@ -5,9 +5,7 @@
 
 
 
-<img align="right" alt="coding" widht="400" src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="480" height="396" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4">
-
-<iframe src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="480" height="396" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4">via GIPHY</a></p>
+<img align="right" alt="coding" widht="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://images.app.goo.gl/QdPYF7dHQVbV87KL9">
 
 
 <p align="left"> <a href="https://twitter.com/@bleuyves" target="blank"><img src="https://img.shields.io/twitter/follow/@bleuyves?logo=twitter&style=for-the-badge" alt="@bleuyves" /></a> </p>
