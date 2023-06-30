@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleu-yves-sopoude&label=Profile%20views&color=0e75b6&style=flat" alt="bleu-yves-sopoude" /> </p>
 
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI4ODZncWlwODJjazN0NXhxZzdpeWJlNXYxcnhkbThuYmttM3NyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TilmLMmWrRYYHjLfub/giphy.gif
+
+<img align="right" alt="coding" widht="400" src="[https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI4ODZncWlwODJjazN0NXhxZzdpeWJlNXYxcnhkbThuYmttM3NyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TilmLMmWrRYYHjLfub/giphy.gif)">
 
 
 <p align="left"> <a href="https://twitter.com/@bleuyves" target="blank"><img src="https://img.shields.io/twitter/follow/@bleuyves?logo=twitter&style=for-the-badge" alt="@bleuyves" /></a> </p>
