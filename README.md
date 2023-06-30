@@ -4,7 +4,7 @@
 
 
 
-<img align="rigth" alt="coding" widht="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<img align="right" alt="coding" widht="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
 <br>
