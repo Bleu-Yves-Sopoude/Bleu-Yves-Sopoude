@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="coding" widht="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://images.app.goo.gl/QdPYF7dHQVbV87KL9](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" widht="400" src="https://miro.medium.com/v2/resize:fit:1360/0*ygaHmPjQnVmEApdT.gif">
 
 
 <br>
