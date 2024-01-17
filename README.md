@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Love reading and trying new experiences**
   
-- 🤝 **I am available for hire** and I'd love to get together with you over a glass of wine to discuss your career path, share our passion for application development and talk about the future of the industry.
+- 🤝 **I am available for hire** and I'd love to get together with you over a cup of coffee to discuss your career path, share our passion for application development and talk about the future of the industry.
   
 - 📫 Reach me at **bleuyves@gmail.com**
 
