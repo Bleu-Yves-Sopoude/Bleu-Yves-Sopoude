@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 🌱 I’m currently learning **Javascript and React Js**
+- 🌱 I’m currently working **Rails and React Projects**
 
 - ⚡ Fun fact **Love reading and trying new experiences**
   
