@@ -8,12 +8,13 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="480" alt="Animated Developer GIF">
   </p>
 
-## 🚀🧑‍💻 About Me
-
-- 🌱 Forever learning — always up for a new challenge.
-- 💡 I love creating things that make life easier.
-- 🤝 Open source and collaboration are my jam.
-- 🎯 Currently focused on backend development and automation.
+### <h1 align="center"> 🚀🧑‍💻 About Me </h1>
+<p align="center">
+🌱 Forever learning — always up for a new challenge.
+💡 I love creating things that make life easier.
+🤝 Open source and collaboration are my jam.
+🎯 Currently focused on backend development and automation.
+<p align="center">
 ---
 <br>
 <h3 align="left">Languages and Tools:</h3>
