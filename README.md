@@ -1,13 +1,14 @@
 <!-- GitHub Profile README: Bleu-Yves Sopoude -->
 
-# 🎩 Bleu-Yves Sopoude
+# <h1 align="center"> 🎩 Bleu-Yves Sopoude </h1>
 
 ---
 
-<p><strong>Building with curiosity, learning with passion.</strong></p>
+<p align="center"><strong>Building with curiosity, learning with passion.</strong></p>
   <br>
+  <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="480" alt="Animated Developer GIF">
-
+  </p>
 ---
 
 ## 🧭 About Me
