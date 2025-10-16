@@ -1,6 +1,6 @@
 <!-- GitHub Profile README: Bleu-Yves Sopoude -->
 
-# <h1 align="center"> Welcome 🎩 I'm Bleu Yves Sopoude </h1>
+# <h1 align="center"> 🎩 Bleu Yves Sopoude </h1>
 
 <h2 align="center"><strong>Building with curiosity, learning with passion.</strong></h2>
   <br>
