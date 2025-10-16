@@ -2,22 +2,16 @@
 
 # <h1 align="center"> 🎩 Bleu-Yves Sopoude </h1>
 
----
-
 <h2 align="center"><strong>Building with curiosity, learning with passion.</strong></h2>
   <br>
   <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="480" alt="Animated Developer GIF">
   </p>
----
 
-## 🧭 About Me
+## 🚀 About Me
 
-I’m Bleu-Yves Sopoude—explorer of ideas, builder of solutions, and lifelong learner.
-
-- 🛠️ **Engineer:** Turning concepts into impactful software.
-- 🧑‍🎓 **Student:** Always trying something new, from AI to automation.
-- 🤲 **Collaborator:** Open to new projects and creative teamwork.
+Welcome to my digital workspace!  
+I’m a developer with a passion for creative problem-solving, continuous learning, and open source.
 
 ---
 
