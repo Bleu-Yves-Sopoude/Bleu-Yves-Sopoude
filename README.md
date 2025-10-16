@@ -10,7 +10,7 @@
 
 ### <h1 align="center"> 🚀🧑‍💻 About Me </h1>
 <p align="center">
-🌱 Forever learning — always up for a new challenge.
+🌱 Forever learning; always up for a new challenge.
 💡 I love creating things that make life easier.
 🤝 Open source and collaboration are my jam.
 🎯 Currently focused on backend development and automation.
