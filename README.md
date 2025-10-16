@@ -14,15 +14,12 @@ Welcome to my digital workspace!
 I’m a developer with a passion for creative problem-solving, continuous learning, and open source.
 
 ---
-
 ## 🚀 Projects & Passions
 
 - **Automation:** Making life simpler through scripts and workflows.
 - **Web & APIs:** Designing clean, efficient, and robust systems.
 - **Learning:** Sharing what I discover to help others grow.
-
 ---
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
