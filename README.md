@@ -8,10 +8,13 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="480" alt="Animated Developer GIF">
   </p>
 
-## 🚀 About Me
 
-Welcome to my digital workspace!  
-I’m a developer with a passion for creative problem-solving, continuous learning, and open source.
+## 🚀🧑‍💻 About Me
+
+- 🌱 Forever learning — always up for a new challenge.
+- 💡 I love creating things that make life easier.
+- 🤝 Open source and collaboration are my jam.
+- 🎯 Currently focused on backend development and automation.
 
 ---
 ## 🚀 Projects & Passions
