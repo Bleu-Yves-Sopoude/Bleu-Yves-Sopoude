@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="480" alt="Animated Developer GIF">
   </p>
 
-### <h1 align="center"> 🚀🧑‍💻 About Me </h1>
+### <h1 align="center"> 🚀 About Me </h1>
 <p align="center">
 🌱 Forever learning; always up for a new challenge.
 💡 I love creating things that make life easier.
