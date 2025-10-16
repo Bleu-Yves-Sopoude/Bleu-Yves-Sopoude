@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center"><strong>Building with curiosity, learning with passion.</strong></p>
+<h2 align="center"><strong>Building with curiosity, learning with passion.</strong></h2>
   <br>
   <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="480" alt="Animated Developer GIF">
