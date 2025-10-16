@@ -5,7 +5,7 @@
 <h2 align="center"><strong>Building with curiosity, learning with passion.</strong></h2>
   <br>
   <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN245b2x6dHZ5NGJlY2k5a3NtdWd0Zjh4N3l0OHk3bjJpN2JmeWloYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="580" alt="Animated Developer GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN245b2x6dHZ5NGJlY2k5a3NtdWd0Zjh4N3l0OHk3bjJpN2JmeWloYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="380" alt="Animated Developer GIF">
   </p>
 
 ### <h1 align="center"> 🚀 About Me </h1>
