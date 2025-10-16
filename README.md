@@ -17,12 +17,6 @@
 - 🎯 Currently focused on backend development and automation.
 
 ---
-## 🚀 Projects & Passions
-
-- **Automation:** Making life simpler through scripts and workflows.
-- **Web & APIs:** Designing clean, efficient, and robust systems.
-- **Learning:** Sharing what I discover to help others grow.
----
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
